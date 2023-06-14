@@ -1,16 +1,22 @@
 {
-  "name": "std",
+  "name": "directus-backend-1b",
   "version": "1.0.0",
-  "description": "",
+  "description": "``` git clone https://github.com/suttirak-mattaya/directus-backend-1b.git cd directus-backend-1b npm install npx directus start ```",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/str3lyx/directus-backend-1b.git"
+  },
+  "author": "str3lyx",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/str3lyx/directus-backend-1b/issues"
+  },
+  "homepage": "https://github.com/str3lyx/directus-backend-1b#readme",
   "dependencies": {
-    "directus": "^9.15.1",
-    "sqlite3": "^5.0.11"
+    "sqlite3": "^5.1.6"
   }
 }
