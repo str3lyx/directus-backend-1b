@@ -1,4 +1,13 @@
-# วิธีลง Directus ใน localhost
+# directus-backend-1b
+
+งานนี้เป็นส่วนหนึ่งของรายวิชา 240-420
+
+## Dependencies
+
++ `nodejs` v18
++ `npm`
+
+## วิธีลง Directus ใน localhost
 
 ```
 git clone https://github.com/suttirak-mattaya/directus-backend-1b.git
